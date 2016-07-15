@@ -8,7 +8,9 @@
 
 {% capture gallery_size %}{{ gallery | size }}{% endcapture %}
 
-{% if gallery_size == '2' %}
+{% if include.class %}
+  {% assign gallery_layout = '' %}
+{% elsif gallery_size == '2' %}
   {% assign gallery_layout = 'half' %}
 {% elsif gallery_size >= '3' %}
   {% assign gallery_layout = 'third' %}

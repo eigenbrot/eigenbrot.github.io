@@ -123,7 +123,7 @@ parts wherever possible. The new hardware I needed is listed below:
 separate it from the rest of the blub. There are various levels of violence
 you could employ in this step. I chose to be very gentle: first I used a file to score the bulb and break the vaccuum. I thend finished the job with a few quick strokes of a hack saw:
 
-{% include gallery id="gallery2" caption="Removing the bulb and cutting it down" %}
+{% include gallery id="gallery2" class="half" caption="Removing the bulb and cutting it down" %}
 
 
 3. The PLT QVL-1 socket is pretty tall so the copper bulb base needed to be trimmed down the the absolute minimum height. The images below show the base before and after trimming. Notice that the trimmed base sits flush with the projector body, thus allowing maximum room for the new bulb holder. During this process all of the remaining glass and wiring we shaken and broken loose from the copper base. This is a good thing because we'll need to thread the new wires through those holes.
