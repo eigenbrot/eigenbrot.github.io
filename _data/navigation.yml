@@ -2,3 +2,9 @@
 main:
   - title: "Test Collection"
     url: /ctest/
+
+camera:
+  - title: Hardware
+    children:
+        - title: B&H Autoload lamp replacement
+          url: /camera/bell-and-howell-lamp-replacement
