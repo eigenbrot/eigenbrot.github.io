@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "The EigenSpace"
+title                    : "The Eigenspace"
 title_separator          : "-"
 name                     : "Arthur Eigenbrot"
 description              : "An amazing website."
@@ -170,6 +170,10 @@ whitelist:
   - jekyll-feed
   - jemoji
 
+collections:
+  camera:
+    output: true
+    permalink: /:collection/:path/
 
 # Archives
 #  Type
