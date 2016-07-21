@@ -12,7 +12,7 @@ feature_row:
     alt: "camera stuff"
     title: "Fun With Vintage Cameras"
     excerpt: "I love old cameras and using them cheaply. Here is stuff I learned that might be useful to others."
-    url: "/ctest"
+    url: "/camera"
     btn_label: "Snap away!"
   # - image_path: mm-responsive-feature.png
   #   alt: "fully responsive"
