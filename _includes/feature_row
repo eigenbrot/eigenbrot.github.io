@@ -35,7 +35,7 @@
         <div class="archive__item-body">
           {% if f.title %}
             <h2 class="archive__item-title" itemprop="headline">
-            <a href="{{ f_url }}" style="color:#3D41FF;">{{ f.title }}</a>
+            <a href="{{ f_url }}" style="color:#494e48;">{{ f.title }}</a>
             </h2>
           {% endif %}
 
