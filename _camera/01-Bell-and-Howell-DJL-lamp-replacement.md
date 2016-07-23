@@ -108,40 +108,69 @@ parts wherever possible. The new hardware I needed is listed below:
 * Nuts for the above
 * 2 red butt connectors to splice wires together
 
-## Steps
+## Procedure
 
-1. First, remove the case of the projector. Remove all the screws indicated in the images below:
- {% include gallery id="gallery1" caption="Remove these screws to access the inside of the projector" %}
- Don't worry if you remove the bottom screw crossed out above; it mounts a bushing for the motor and can easily be re-attached after the case is off. At this point you will also want to remove the bulb cover on the projector and pull out the old DJL bulb:
+First, remove the case of the projector. Remove all the screws indicated in the images below:
+ 
+{% include gallery id="gallery1" caption="Remove these screws to access the inside of the projector" %}
+
+Don't worry if you remove the bottom screw crossed out above; it
+mounts a bushing for the motor and can easily be re-attached after the
+case is off. At this point you will also want to remove the bulb cover
+on the projector and pull out the old DJL bulb:
+
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/BH462/DJL_overview.jpeg" alt="">
-  <figcaption>The old bulb</figcaption>
+<figcaption>The old bulb</figcaption>
 </figure> 
 
-
-2. We'll use the copper base of the old bulb to mount the new fixture so let's
-separate it from the rest of the blub. There are various levels of violence
-you could employ in this step. I chose to be very gentle: first I used a file to score the bulb and break the vaccuum. I thend finished the job with a few quick strokes of a hack saw:
+We'll use the copper base of the old bulb to mount the new fixture so
+let's separate it from the rest of the blub. There are various levels
+of violence you could employ in this step. I chose to be very gentle:
+first I used a file to score the bulb and break the vaccuum. I thend
+finished the job with a few quick strokes of a hack saw:
 
 {% include gallery id="gallery2" class="half" caption="Removing the bulb and cutting it down" %}
 
 
-3. The PLT QVL-1 socket is pretty tall so the copper bulb base needed to be trimmed down the the absolute minimum height. The images below show the base before and after trimming. Notice that the trimmed base sits flush with the projector body, thus allowing maximum room for the new bulb holder. During this process all of the remaining glass and wiring we shaken and broken loose from the copper base. This is a good thing because we'll need to thread the new wires through those holes.
-
+The PLT QVL-1 socket is pretty tall so the copper bulb base needed to
+be trimmed down the the absolute minimum height. The images below show
+the base before and after trimming. Notice that the trimmed base sits
+flush with the projector body, thus allowing maximum room for the new
+bulb holder. During this process all of the remaining glass and wiring
+we shaken and broken loose from the copper base. This is a good thing
+because we'll need to thread the new wires through those holes.
+ 
 {% include gallery id="gallery3" caption="Trimming base to fit new fixture" %}
 
-4. Now mount the PLT QVL-1 socket to the trimmed base. The holes in the socket accept 5-32 and 8-32 size screws. Before adding the screws make sure the thread the wire leads through the two back holes. Make sure to get the alignment right; the central post of the copper base as an alignment cam that is important to keep track of.
+Now mount the PLT QVL-1 socket to the trimmed base. The holes in the
+socket accept 5-32 and 8-32 size screws. Before adding the screws make
+sure the thread the wire leads through the two back holes. Make sure
+to get the alignment right; the central post of the copper base as an
+alignment cam that is important to keep track of.
 
 {% include gallery id="gallery4" caption="Attaching the halogen bulb fixture to the old DJL base" %}
 
-With the MR16D bulb installed the entire assembly should look like this. Notice that I used button-head screws because the clearance  between the actual bulb and the socket is pretty tight:
+With the MR16D bulb installed the entire assembly should look like
+this. Notice that I used button-head screws because the clearance
+between the actual bulb and the socket is pretty tight:
 
 {% include gallery id="gallery5" caption="The new halogen bulb in its holding fixture" %}
 
-5. Now all you have to do is wire everything up. I was able to get the new wires through a hole on the side of the mounting fixture (see below). I then removed the old wires (yellow and brown) from the mounting fixture and spliced them to the new wires with some butt connectors. The order of the wires does not matter. Once all the wiring is done fire up the projector and make sure the bulb works.
+Now all you have to do is wire everything up. I was able to get the
+new wires through a hole on the side of the mounting fixture (see
+below). I then removed the old wires (yellow and brown) from the
+mounting fixture and spliced them to the new wires with some butt
+connectors. The order of the wires does not matter. Once all the
+wiring is done fire up the projector and make sure the bulb works.
 
 {% include gallery id="gallery6" caption="Final wiring, thread the new wires through a hole in the mounting braket and splice them to the existing wires" %}
 
-6. Put everything back together in the same way you took it apart. I have found that the bulb cover is a teeny bit too small to full snap into place with the new bulb mount. If you wanted you could probably remove the heat shield inside the bulb cover to free up some more space; the new bulb shouldn't get hot enough to need the shield. I left mine on becuase I'm lazy and it doesn't really make a difference.
+Put everything back together in the same way you took it apart. I have
+found that the bulb cover is a teeny bit too small to full snap into
+place with the new bulb mount. If you wanted you could probably remove
+the heat shield inside the bulb cover to free up some more space; the
+new bulb shouldn't get hot enough to need the shield. I left mine on
+becuase I'm lazy and it doesn't really make a difference.
 
 That's it! Not too bad. There was definitely some trial and error mating the new socket to the copper base, but now that I know what to do I could probably get the whole thing done in about 30 minutes or so. What's more, the new socket allows you to replace the bulb without getting into the guts of the projector. All in all I'm very happy with this modification and it has massively extended the usefullness of my projector.
