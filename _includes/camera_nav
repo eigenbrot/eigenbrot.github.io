@@ -25,6 +25,12 @@
     {% endfor %}
     {% for post in collection.docs %}
       {% unless post.parent %}
+          {% comment %}set "active" class on current page{% endcomment %}
+          {% if post.url == page.url %}
+            {% assign active = "active" %}
+          {% else %}
+            {% assign active = "" %}
+          {% endif %}
         <li><a href="{{ base_path }}{{ post.url }}" class="{{ active }}">{{ post.title }}</a></li>
       {% endunless %}
     {% endfor %}
