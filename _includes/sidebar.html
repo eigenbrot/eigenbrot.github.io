@@ -20,6 +20,9 @@
     {% if page.sidebar.nav %}
       {% include nav_list nav=page.sidebar.nav %}
     {% endif %}
+    {% if page.sidebar.auto_nav %}
+      {% include {{ page.sidebar.auto_nav }} %}
+    {% endif %}
   {% endif %}
   </div>
 {% endif %}

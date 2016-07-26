@@ -8,3 +8,7 @@ camera:
     children:
         - title: B&H Autoload lamp replacement
           url: /camera/bell-and-howell-lamp-replacement
+
+camera_auto:
+   - title: Hardware
+   - title: Test

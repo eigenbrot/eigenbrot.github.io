@@ -3,6 +3,7 @@ layout: single
 permalink: /camera/bell-and-howell-lamp-replacement
 title:  Bell and Howell 462 Autoload DJL Lamp Replacement
 excerpt: Most Bell and Howell projectors use the still-available but very expensive DJL bulbs. Here I show you how I modified my projector to use cheap halogen lamps.
+parent: Hardware
 # author_profile: true
 # read_time: true
 

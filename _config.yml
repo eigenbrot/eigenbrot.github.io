@@ -194,7 +194,7 @@ defaults:
       share: false
       comments: false
       sidebar:
-         nav: "camera"
+         auto_nav: camera_nav
 
 # Archives
 #  Type
