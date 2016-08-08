@@ -1,0 +1,38 @@
+{% include base_path %}
+{% assign parents = site.data.navigation.pole_auto %}
+
+{% assign collection = site.collections | where:'label','pole' | first %}
+
+<nav class="nav__list">
+  {% if page.sidebar.title %}<header><h4 class="nav__title" style="padding: 0;">{{ page.sidebar.title }}</h4></header>{% endif %}
+  <li>
+    {% for parent in parents %}
+       <span class="nav__sub-title">{{ parent.title }}</span>
+       <ul>
+       {% for post in collection.docs %}
+          {% if post.parent == parent.title %}
+            {% comment %}set "active" class on current page{% endcomment %}
+            {% if post.url == page.url %}
+              {% assign active = "active" %}
+            {% else %}
+              {% assign active = "" %}
+            {% endif %}
+
+             <li><a href="{{ base_path }}{{ post.url }}" class="{{ active }}">{{ post.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+        </ul>
+    {% endfor %}
+    {% for post in collection.docs %}
+      {% unless post.parent %}
+          {% comment %}set "active" class on current page{% endcomment %}
+          {% if post.url == page.url %}
+            {% assign active = "active" %}
+          {% else %}
+            {% assign active = "" %}
+          {% endif %}
+        <li><a href="{{ base_path }}{{ post.url }}" class="{{ active }}">{{ post.title }}</a></li>
+      {% endunless %}
+    {% endfor %}
+  </li>
+</nav>

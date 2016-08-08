@@ -1,5 +1,9 @@
 # main links links
 main:
+  - title: "About"
+    url: /about/
+  - title: "The Pole"
+    url: /pole/
   - title: "Vintage Photography"
     url: /camera/
 
@@ -12,3 +16,6 @@ camera:
 camera_auto:
    - title: Hardware
    - title: Test
+
+pole_auto:
+   - title: Pole Prep

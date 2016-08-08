@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "The Eigenspace"
 title_separator          : "-"
 name                     : "Arthur Eigenbrot"
-description              : "An amazing website."
+description              : "A life on ice"
 #url                      : "http://www.eigenspace.me"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -63,7 +63,7 @@ google_ad_slot           :
 # Site Author
 author:
   name             : "Arthur Eigenbrot"
-  avatar           : "bio-photo.jpg"
+  avatar           : "ade.jpg"
   bio              : "Kickin' it Old Skool"
   location         : "90 South"
   email            :
@@ -170,6 +170,9 @@ whitelist:
   - jemoji
 
 collections:
+  pole:
+    output: true
+    permalink: /:collection/:path/
   camera:
     output: true
     permalink: /:collection/:path/
@@ -195,6 +198,18 @@ defaults:
       comments: false
       sidebar:
          auto_nav: camera_nav
+  # _pole
+  - scope:
+      path: ""
+      type: pole
+    values:
+      layout: single
+      read_time: true
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+         auto_nav: pole_nav
 
 # Archives
 #  Type
