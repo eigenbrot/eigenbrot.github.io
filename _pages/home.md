@@ -31,6 +31,7 @@ feature_row:
 # intro:
 #   - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter}'
 ---
+{% include masthead.html %}
 
 {% include feature_row id="intro" type="center" %}
 
