@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "The Eigenspace"
 title_separator          : "-"
 name                     : "Arthur Eigenbrot"
-description              : "A life on ice"
+description              : "Rouge Scientist"
 #url                      : "http://www.eigenspace.me"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -176,6 +176,9 @@ collections:
   camera:
     output: true
     permalink: /:collection/:path/
+  computer:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -210,6 +213,18 @@ defaults:
       comments: false
       sidebar:
          auto_nav: pole_nav
+  # _computer
+  - scope:
+      path: ""
+      type: computer
+    values:
+      layout: single
+      read_time: true
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+         auto_nav: computer_nav
 
 # Archives
 #  Type

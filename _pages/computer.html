@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "Computer Stuff"
+permalink: /computer/
+author_profile: true
+---
+
+{% include base_path %}
+{% assign collectionName = 'computer' %}
+
+{% assign collection = site.collections | where:'label',collectionName | first %}
+{% for post in collection.docs %}
+  {% unless post.render == false %}
+      {% include archive-single.html %}
+  {% endunless %}
+{% endfor %}

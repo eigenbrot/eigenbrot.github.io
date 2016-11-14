@@ -2,10 +2,12 @@
 main:
   - title: "About"
     url: /about/
-  - title: "The Pole"
-    url: /pole/
+  # - title: "The Pole"
+  #   url: /pole/
   - title: "Vintage Photography"
     url: /camera/
+  - title: "Computer Stuff"
+    url: /computer/
 
 camera:
   - title: Hardware
@@ -15,7 +17,10 @@ camera:
 
 camera_auto:
    - title: Hardware
-   - title: Test
+   - title: Test_yo
 
 pole_auto:
    - title: Pole Prep
+
+computer_auto:
+   - title: Raspberry Pi
