@@ -222,8 +222,14 @@ operations. The results are in the tables below:
 | 512k | 535 MB/s | 500 MB/s | 550 MB/s |
 | 1M | 35 MB/s | 37 MB/s | 39 MB/s |
 
-So there you have it. I had heard rumours that large chunk sizes are
+~~So there you have it. I had heard rumours that large chunk sizes are
 better for RAID 5 and the data seems to support that, but all of the
-chunk sizes I tested are pretty close to one another.
+chunk sizes I tested are pretty close to one another.~~
 
-In the end I actually wound up using a chunk size of `64k` because it seems to provide the best performance for `monerod`, but that's a story for another time....
+~~In the end I actually wound up using a chunk size of `64k` because it
+seems to provide the best performance for `monerod`, but that's a
+story for another time....~~
+
+**EDIT:** More and better tests can be found
+  [here](raspberry-RAID-tests). The results are different; 4k chunks
+  appear to be the best.
