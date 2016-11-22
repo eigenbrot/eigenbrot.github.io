@@ -50,6 +50,22 @@ $ dd if=tmp of=/dev/null bs=XXX count=YYYY status=progress
 | 512k | 530 MB/s | 550 MB/s | 550 MB/s | 550 MB/s | 550 MB/s |
 | 1M | 35 MB/s | 45 MB/s | 38 MB/s | 40 MB/s | 42 MB/s |
 
+## Plots
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/RAID/RAID_write.png" alt="">
+<figcaption>Write speed as a function of mdadm chunk size. Solid lines are for a 4 disk, level 5 RAID device and dashed lines are for a 3 disk, level 5 device.</figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/RAID/RAID_unbuff.png" alt="">
+<figcaption>Unbuffered read speed as a function of mdadm chunk size. Colors and styles are the same as above.</figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/RAID/RAID_buff.png" alt="">
+<figcaption>Buffered read speed as a function of mdadm chunk size. Colors and styles are the same as above.</figcaption>
+</figure> 
+
 These results run counter to what we saw in the three disk array. In
 that case a larger chunk size gave better performance, but here a
 small, 4k chunk size (the smallest allowed by `mdadm`) gives clearly
