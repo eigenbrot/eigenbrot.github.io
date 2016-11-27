@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /
+permalink: /home
 date:
 header:
   overlay_color: "#5e616c"
@@ -10,7 +10,7 @@ excerpt: 'The Götterdämmerung of blogs'
 feature_row:
   - image_path: BH462/projector_overview.jpg
     alt: "camera stuff"
-    title: "Fun With Vintage Cameras"
+    title: "Fun With Vintage Cameras#$"
     excerpt: "I love old cameras and using them cheaply. Here is stuff I learned that might be useful to others."
     url: "/camera"
     btn_label: "Snap away!"
@@ -36,3 +36,5 @@ feature_row:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+{% include post_pagination.html %}

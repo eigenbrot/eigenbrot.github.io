@@ -34,10 +34,10 @@ excerpt: 'The Götterdämmerung of blogs'
 
 {% include base_path %}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts }}</h3>
+{% include masthead.html %}
 
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
+<h3 class="archive__subtitle">Recent posts</h3>
+
+{% for post in site.posts limit:5 %}
+ {% include archive-single.html %}
 {% endfor %}
-
-{% include paginator.html %}
