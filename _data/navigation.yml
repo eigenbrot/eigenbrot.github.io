@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  # - title: "The Pole"
-  #   url: /pole/
+  - title: "Post archives"
+    url: /archive/
   - title: "Vintage Photography"
     url: /camera/
   - title: "Computer Stuff"
