@@ -148,8 +148,8 @@ kramdown:
 
 # Outputting
 permalink: /:categories/:title/
-#paginate: 2 # amount of posts to show
-#paginate_path: archive/page:num/
+paginate: 2 # amount of posts to show
+paginate_path: /archive/page:num/
 timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
