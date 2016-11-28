@@ -1,12 +1,19 @@
 ---
-layout: splash
+layout: archive
 permalink: /
 date:
+author_profile: True
+sidebar:
+  - title: "Test"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
 header:
   overlay_color: "#5e616c"
   overlay_image: main_bg.jpg
   caption:
 excerpt: 'The Götterdämmerung of blogs'
+force_masthead: True
 # feature_row:
 #   - image_path: mm-customizable-feature.png
 #     alt: "customizable"
@@ -34,9 +41,7 @@ excerpt: 'The Götterdämmerung of blogs'
 
 {% include base_path %}
 
-{% include masthead.html %}
-
-<h3 class="archive__subtitle">Recent posts</h3>
+<h1 class="archive__subtitle">Recent posts</h1>
 
 {% for post in site.posts limit:5 %}
  {% include archive-single.html %}
