@@ -4,20 +4,25 @@ title: Beginnings
 excerpt: Every journey has to start somewhere. Mine started with a long day driving west.
 ---
 
-By the time the sun rose over Madison, Wi on Sunday, November 20th I
-had already been up for a while. I had finished packing the last of my
-belongings into my sweet van and was on my way to Short Stack Eatery
-for a quick breakfast. I had hoped for one more Yellow C.A.B. at
-Gotham Bagels, but Short Stack was the only place open early enough
-for my schedule. Half an aggressively decent breakfast burrito later,
-as I was walking back to my van, I was greeted with a bright shock of
-orange and pink above the Capitol as the morning light caught some low
-clouds. After over six years in Madison I thought it was a fitting
-sendoff and made a welcome final memory. A few minutes later I was
-pulling out of the parking lot behind my old apartment and pointing my
-wheels out of town.
+<figure class="align-right" style="width:40%">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/posts/msn_bye.jpg">
+</figure> 
+By the time the sun rose over Madison, Wi
+on Sunday, November 20th I had already been up for a while. I had
+finished packing the last of my belongings into my sweet van and was
+on my way to Short Stack Eatery for a quick breakfast. I had hoped for
+one more Yellow C.A.B. at Gotham Bagels, but Short Stack was the only
+place open early enough for my schedule. Half an aggressively decent
+breakfast burrito later, as I was walking back to my van, I was
+greeted with a bright shock of orange and pink above the Capitol as
+the morning light caught some low clouds. After over six years in
+Madison I thought it was a fitting sendoff and made a welcome final
+memory. A few minutes later I was pulling out of the parking lot
+behind my old apartment and pointing my wheels out of town.
 
-It's easy to be emotional when venturing off into the unknown, and
+<figure class="align-left" style="width:70%;margin-bottom:2px;margin-top:0px"> <img src="{{
+  site.url}}{{ site.baseurl }}/images/posts/bye_Citybar.jpg">
+</figure> It's easy to be emotional when venturing off into the unknown, and
 during my time in Madison I had made some strong connections to the
 city and its people so of course I was sad to leave. The last week had
 been spent reveling in the company of my friends and a surprise party
@@ -82,6 +87,10 @@ lot near the Denver airport eating my first official van dinner and
 getting ready for my first official night on the road. The weather in
 Denver was nice; probably about 40 or so at night. It ended with
 little fanfare, but the first day of my journey was complete.
+<figure class="align-center" width="100%">
+  <img src="{{ site.url }}{{ site.basepath }}/images/posts/first_dinner.jpg">
+<figurecaption>The first official dinner</figurecaption>
+</figure>
 
 A few other things I noticed:
 
