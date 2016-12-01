@@ -1,6 +1,12 @@
 ---
 layout: single
 title: Beginnings
+force_masthead: True
+header:
+  overlay_image: posts/bye_Citybar.jpg
+  padding-bottom: 2em
+  padding-top: 1em
+
 excerpt: Every journey has to start somewhere. Mine started with a long day driving west.
 ---
 

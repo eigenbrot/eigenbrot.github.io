@@ -1,6 +1,10 @@
 ---
 layout: single
-excerpt: 
+excerpt: Beginnings II - The Quickening. Now from the West.
+force_masthead: True
+header:
+  overlay_image: posts/AMroad-9.jpg
+  padding-bottom: 5em
 
 gallery:
   - url: posts/AMroad-1.jpg
