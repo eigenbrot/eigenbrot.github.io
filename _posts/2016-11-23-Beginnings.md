@@ -95,7 +95,7 @@ Denver was nice; probably about 40 or so at night. It ended with
 little fanfare, but the first day of my journey was complete.
 <figure class="align-center" width="100%">
   <img src="{{ site.url }}{{ site.basepath }}/images/posts/first_dinner.jpg">
-<figurecaption>The first official dinner</figurecaption>
+<figcaption>The first official dinner</figcaption>
 </figure>
 
 A few other things I noticed:
