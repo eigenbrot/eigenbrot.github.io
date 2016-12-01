@@ -4,16 +4,10 @@ main:
     url: /about/
   - title: "Post archives"
     url: /archive/
-  - title: "Vintage Photography"
-    url: /camera/
+  # - title: "Vintage Photography"
+  #   url: /camera/
   - title: "Computer Stuff"
     url: /computer/
-
-camera:
-  - title: Hardware
-    children:
-        - title: B&H Autoload lamp replacement
-          url: /camera/bell-and-howell-lamp-replacement
 
 camera_auto:
    - title: Hardware
