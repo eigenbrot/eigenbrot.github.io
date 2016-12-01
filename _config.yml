@@ -195,6 +195,7 @@ defaults:
       comments: false
       share: false
       related: false
+      no_category: true
   # _pages
   - scope:
       path: ""
