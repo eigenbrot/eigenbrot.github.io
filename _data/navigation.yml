@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Post archives"
-    url: /archive/
+    url: /posts/
   # - title: "Vintage Photography"
   #   url: /camera/
   - title: "Computer Stuff"
