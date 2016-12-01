@@ -1,6 +1,7 @@
 *.sublime-project
 *.sublime-workspace
 *.pyc
+*.bak
 .DS_Store
 .jekyll-metadata
 .sass-cache
