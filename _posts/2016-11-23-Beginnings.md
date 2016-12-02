@@ -125,3 +125,12 @@ A few other things I noticed:
   strange, however, was that a majority of passenger vehicles seemed
   to be driven by painful cliches of old, white men. This is Trump's
   America; they've won and they feel like stepping out.
+
+* Somewhere in the middle of Nebraska I was overwhelmed by some rank
+  shit smell. I've driven near stockyards before and am familiar with
+  the stank of lots of cows but this was different. It was a
+  distinctly acrid miasma that I usually associate with the
+  combination of human feces and whatever chemicals they add to
+  portable toilets to prevent the spread of dysentery. I'm not saying
+  some brave prankster took a monster dump across parts of central
+  Nebraska; I'm just saying it smelled like that.
