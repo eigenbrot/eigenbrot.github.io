@@ -1,0 +1,19 @@
+{% include base_path %}
+
+<nav class="nav__list">
+     <span class="nav__sub-title">Neighboring Posts</span>
+       <ul>
+       {% if page.next.next %}
+         <li><a href="{{ base_path }}{{ page.next.next.url }}">{{ page.next.next.title }}</a></li>
+       {% endif %}
+       {% if page.next %}
+         <li><a href="{{ base_path }}{{ page.next.url }}">{{ page.next.title }}</a></li>
+       {% endif %}
+       <li><a href="{{ base_path }}{{ page.url }}" class="active">{{ page.title }}</a></li>
+       {% if page.previous %}
+         <li><a href="{{ base_path }}{{ page.previous.url }}">{{ page.previous.title}}</a></li>
+       {% endif %}
+       {% if page.previous.previous %}
+         <li><a href="{{ base_path }}{{ page.previous.previous.url }}">{{ page.previous.previous.title}}</a></li>
+       {% endif %}
+</nav>

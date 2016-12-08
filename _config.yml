@@ -191,12 +191,13 @@ defaults:
       layout: single
       category: posts
       show_date: true
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: false
       share: false
       related: false
       no_category: true
+      post_nav: true
   # _pages
   - scope:
       path: ""

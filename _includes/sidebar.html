@@ -1,6 +1,6 @@
 {% include base_path %}
 
-{% if page.author_profile or layout.author_profile or page.sidebar %}
+{% if page.author_profile or layout.author_profile or page.sidebar or page.post_nav %}
   <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
   {% if page.sidebar %}
@@ -23,6 +23,9 @@
     {% if page.sidebar.auto_nav %}
       {% include {{ page.sidebar.auto_nav }} %}
     {% endif %}
+  {% endif %}
+  {% if page.post_nav %}
+   {% include post_nav %}
   {% endif %}
   </div>
 {% endif %}
