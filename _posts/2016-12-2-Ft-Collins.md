@@ -25,12 +25,12 @@ but I was still pretty cozy and slept well.
 I went for a morning walk in Walmart before going to the library to do
 some more work. At 11:30 I headed over to the New Belgium brewery for
 what proved to be a very good tour. In addition to a _ton_ of free
-beer (and some that hasn't come out yet!) we also got to see most
+beer (and some that hasn't been released yet!) we also got to see most
 aspects of the brewery's operations. The excellence of the tour came
 from the opposite end of the spectrum as my tour high-water mark of
-Karben 4 in Madison, WI. Whereas Karben 4 was awesome for its in
-depth, nerdy intensity New Belgium was awesome for just being a ton of
-fun. In both cases passion for the job and the craft were key. Also
+Karben 4 in Madison, WI. Whereas Karben 4 was awesome for its
+in-depth, nerdy intensity New Belgium was awesome for just being a ton
+of fun. In both cases passion for the job and the craft were key. Also
 nice was that, unlike most boring brewery tours, they didn't spend a
 huge amount of time on the actual beer making process. I think they
 figure that those who really care already know or will ask. Instead
