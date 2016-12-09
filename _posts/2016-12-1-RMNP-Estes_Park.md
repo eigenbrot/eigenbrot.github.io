@@ -47,7 +47,7 @@ took a very pleasant jaunt around Bear Lake. The spiritual benefits of
 wilderness and the outdoors were immediately apparent, and I felt
 somehow whole in a way I had forgotten after years of focused
 Astronomy and Rock & Roll. It cannot be understated how large the idea
-of the _wild_ plays into the core of American identity and here was
+of the wild plays into the core of American identity and here was
 one more American digging deep into that wellspring to find a little
 personal salvation among the great cathedrals of this nation. All
 around me the Sun's rays cut cleanly through the turbulent air to

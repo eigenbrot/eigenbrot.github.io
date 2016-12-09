@@ -7,7 +7,7 @@ header:
   padding-bottom: 2em
   padding-top: 1em
 
-excerpt: Every journey has to start somewhere. Mine started with a long day driving west.
+excerpt: Every journey has to start somewhere. Mine started with a long day driving.
 ---
 
 <figure class="align-right" style="width:40%">
@@ -120,11 +120,6 @@ A few other things I noticed:
   followed the same Platte river valley that guided many settlers west
   in the middle of the nineteenth century. Manifest Destiny is still a
   powerful force in the mind of America.
-
-* As expected, I saw a lot of trucks on the interstate. What was
-  strange, however, was that a majority of passenger vehicles seemed
-  to be driven by painful cliches of old, white men. This is Trump's
-  America; they've won and they feel like stepping out.
 
 * Somewhere in the middle of Nebraska I was overwhelmed by some rank
   shit smell. I've driven near stockyards before and am familiar with
