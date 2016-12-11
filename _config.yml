@@ -192,6 +192,7 @@ defaults:
       category: posts
       show_date: true
       author_profile: false
+      force_masthead: true
       read_time: true
       comments: false
       share: false
