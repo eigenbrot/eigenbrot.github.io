@@ -18,6 +18,7 @@ en: &DEFAULT_EN
   categories_label      : "Categories:"
   date_label            : "Updated:"
   comments_label        :
+  comment_success_msg   : "Thanks for your comment! It will appear here shortly"
   more_label            : "Learn More"
   related_label         : "You May Also Enjoy"
   follow_label          : "Follow:"
