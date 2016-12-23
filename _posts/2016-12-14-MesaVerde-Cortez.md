@@ -71,9 +71,9 @@ Seeing these villages really opened up my mind to the fact that the
 four-corners region has very deep and interesting cultural as well as
 geologic heritage. A fact that blew my mind is that there were more (a
 lot more!)  people living in this area back at the height of the
-Anasazi civilization (around 1200 or so) than there are now. There is a
-lot to explore out here and the ranger in the museum gave me some good
-beta on some cool spots along Comb Ridge in Utah.
+Anasazi civilization (around AD 1200 or so) than there are now. There
+is a lot to explore out here and the ranger in the museum gave me some
+good beta on some cool spots along Comb Ridge in Utah.
 
 <figure class='align-right' style='width:50%'>
  <a href='{{ site.url }}{{ site.baseurl }}/images/posts/MeVe-8.jpg'>

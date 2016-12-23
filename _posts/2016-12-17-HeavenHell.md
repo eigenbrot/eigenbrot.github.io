@@ -26,13 +26,14 @@ initial conclusion Bluff seems like a pretty neat little town.
 In any case, I was soon back on US 163 heading towards Monument
 Valley. The weather was stern, but so far not actually that bad. In
 fact, the rapidly shifting clouds made the famous monuments quite
-striking in away that was not possible with direct sun alone. I didn't
-actually "go" to Monument Valley, but from the road I think I got
-enough views to have a sense of the place. What's more, I was still on
-a high from the [Valley of the Gods]({{ site.url }}{{ site.baseurl
-}}/posts/2016-12-16-VotG) and didn't feeling like visiting a touristy
-area. Soon after Monument Valley I entered Arizona, and as I left Utah
-behind I couldn't help but think that I was leaving some sort heaven.
+striking in a way that was not possible with direct sun alone. I
+didn't actually "go" to Monument Valley, but from the road I think I
+got enough views to have a sense of the place. What's more, I was
+still on a high from the [Valley of the Gods]({{ site.url }}{{
+site.baseurl }}/posts/2016-12-16-VotG) and didn't feeling like
+visiting a touristy area. Soon after Monument Valley I entered
+Arizona, and as I left Utah behind I couldn't help but think that I
+was leaving some sort heaven.
 
 <figure class='align-right' style='width:50%'>
   <a href="{{ site.url }}{{ site.baseurl }}/images/posts/HH-3.jpg">
