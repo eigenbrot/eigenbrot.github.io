@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "Post archives"
     url: /posts/
+  - title: "Start at the Beginning"
+    url: /posts/2016-11-23-Beginnings
   # - title: "Vintage Photography"
   #   url: /camera/
   - title: "Computer Stuff"
