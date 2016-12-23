@@ -15,7 +15,7 @@ layout: compress
 
     {% include browser-upgrade.html %}
 
-    {% unless (page.header.overlay_color or page.header.overlay_image) or page.header.image %}
+    {% unless page.header.overlay_color or page.header.overlay_image or page.header.image %}
         {% include masthead.html %}
     {% endunless %}
 
