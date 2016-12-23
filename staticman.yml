@@ -3,7 +3,7 @@ branch                 : "master"
 commitMessage          : "New staticman comment"
 filename               : "comment-{@timestamp}"
 format                 : "yml"
-moderation             : true
+moderation             : false
 path                   : "_data/comments/{options.slug}"
 requiredFields         : ['name', 'message']
 transforms:
