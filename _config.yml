@@ -14,7 +14,8 @@ description              : "Rouge Scientist"
 #url                      : "http://www.eigenspace.me"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
-repository               : eigenbrot
+gh_name                  : eigenbrot
+repository               : eigenbrot.github.io
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200

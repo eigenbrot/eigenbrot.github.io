@@ -2,7 +2,7 @@
 layout: single
 title: Test
 permalink: /test/
-comments: False
+comments: True
 author_profile: True
 ---
 This is a test!
