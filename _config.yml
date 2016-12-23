@@ -34,7 +34,7 @@ staticman:
   allowedFields          : ['name', 'email', 'message']
   branch                 : "master"
   commitMessage          : "New staticman comment"
-  filename               : "comment-{@timestamp}"
+  filename               : "comment-{fields.name}-{@timestamp}"
   format                 : "yml"
   moderation             : false
   path                   : "_data/comments/{options.slug}"
