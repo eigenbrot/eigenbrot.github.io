@@ -4,7 +4,7 @@ commitMessage          : "New staticman comment"
 filename               : "testC"
 format                 : "yml"
 moderation             : true
-path                   : "_data/comments/"
+path                   : "_data/comments"
 requiredFields         : ['name', 'message']
 transforms:
   email                : "md5"
