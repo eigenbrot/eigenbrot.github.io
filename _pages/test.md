@@ -7,9 +7,9 @@ author_profile: True
 ---
 This is a test!
 
-yurpdurp3
+yurpdurp4
 
-<form method="POST" action="https://api.staticman.net/v2/entry/eigenbrot/eigenbrot.github.io/master">
+<form method="POST" action="https://api.staticman.net/v1/entry/eigenbrot/eigenbrot.github.io/master">
   <input name="options[redirect]" type="hidden" value="http://www.eigenspace.me">
   <!-- e.g. "2016-01-02-this-is-a-post" -->
   <input name="options[slug]" type="hidden" value="{{ page.slug }}">
