@@ -54,7 +54,7 @@
             <input type="email" id="comment-form-email" name="fields[email]" tabindex="3" />
           </fieldset>
           <fieldset class="hidden" style="display: none;">
-            <input type="hidden" name="options[slug]" value="{{ page.slug }}">
+            <input type="hidden" name="options[slug]" value="{{ page.title | slugify }}">
             <label for="comment-form-location">Not used. Leave blank if you are a human.</label>
             <input type="text" id="comment-form-location" name="fields[hidden]" autocomplete="off"/>
           </fieldset>

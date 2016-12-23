@@ -9,4 +9,4 @@ This is a test!
 
 {{ page.title | slugify }}
 
-yurpdurp7
+yurpdurp8
