@@ -212,7 +212,7 @@ defaults:
       author_profile: false
       force_masthead: true
       read_time: true
-      comments: false
+      comments: true
       share: false
       related: false
       no_category: true
@@ -257,7 +257,7 @@ defaults:
       read_time: true
       author_profile: false
       share: false
-      comments: false
+      comments: true
       sidebar:
          auto_nav: computer_nav
 
