@@ -34,10 +34,10 @@ staticman:
   allowedFields          : ['name', 'email', 'message']
   branch                 : "master"
   commitMessage          : "New staticman comment"
-  filename               : "testC"
+  filename               : "comment-{@timestamp}"
   format                 : "yml"
   moderation             : true
-  path                   : "_data/comments/"
+  path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'message']
   transforms:
     email                : "md5"
