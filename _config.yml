@@ -213,7 +213,7 @@ defaults:
       force_masthead: true
       read_time: true
       comments: true
-      share: false
+      share: true
       related: false
       no_category: true
       post_nav: true
@@ -256,7 +256,7 @@ defaults:
       layout: single
       read_time: true
       author_profile: false
-      share: false
+      share: true
       comments: true
       sidebar:
          auto_nav: computer_nav
