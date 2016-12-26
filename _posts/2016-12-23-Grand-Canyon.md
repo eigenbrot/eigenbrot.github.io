@@ -1,5 +1,6 @@
 ---
 title: Grand Canyon
+excerpt: A very good experience, from top to bottom
 header:
   overlay_image: posts/GC_down-3.jpg
   padding-top: 2em
