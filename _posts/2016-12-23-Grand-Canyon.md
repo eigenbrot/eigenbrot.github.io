@@ -270,8 +270,8 @@ things.
 
 Other Observations:
 
-* The night I spent at Bright Angel Campground was the shortest night
-  of the year. I'm not sure it will really affect me over the next few
+* The night I spent at Bright Angel Campground was the shortest day of
+  the year. I'm not sure it will really affect me over the next few
   weeks, but the knowledge that there is more light in the world is
   reassuring.
 
