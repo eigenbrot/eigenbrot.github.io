@@ -6,6 +6,8 @@ main:
     url: /posts/
   - title: "Start at the Beginning"
     url: /posts/2016-11-23-Beginnings
+  - title: "Best Of"
+    url: /bestof/
   # - title: "Vintage Photography"
   #   url: /camera/
   - title: "Computer Stuff"

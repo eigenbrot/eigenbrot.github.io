@@ -1,0 +1,19 @@
+---
+layout: archive
+title: "Best Posts"
+permalink: /bestof/
+author_profile: false
+sidebar:
+  - text: "Some of the travel posts are better than others and a few
+of these rise to a level of quality that makes me proud. These are
+those posts. Enjoy!"
+---
+
+{% include base_path %}
+{% for post in site.posts %}
+  {% unless post.render == false %}
+    {% if post.bestof %}
+     {% include archive-single.html %}
+    {% endif %}
+  {% endunless %}
+{% endfor %}
