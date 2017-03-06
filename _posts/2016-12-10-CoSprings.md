@@ -1,5 +1,6 @@
 ---
 title: Colorado Springs
+bestof: True
 excerpt: Cold weather and warm friends
 header:
   overlay_image: posts/CS_CS-1.jpg
