@@ -25,3 +25,5 @@ force_masthead: True
 {% for post in site.posts limit:5 %}
  {% include archive-single.html %}
 {% endfor %}
+<br>
+<a href="{{ site.url }}{{ site.baseurl }}/posts" class="pagination--pager" title="Post Archives">Older Posts</a>
