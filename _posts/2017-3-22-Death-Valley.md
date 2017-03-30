@@ -1,6 +1,5 @@
 ---
 title: Death Valley
-analytics: False
 excerpt: Man, it's _hot_ down here
 header:
   overlay_image: posts/DV-9.jpg
