@@ -71,8 +71,8 @@ really think about it, the petrified wood is really cool. These are
 trees that are over *250 million* years old. Wow! The fossils are
 extremely wood-like in appearance but are all hard silica rocks with
 fantastic colors. That said, this stuff is *everywhere* and is strewn
-about it a very disorganized and chaotic way. Unfortunately, despite
-the coolness of it, I quickly got over the petrified wood.
+about it a very disorganized and chaotic way. So, despite the coolness
+of it, I quickly got over the petrified wood.
 
 <figure class="align-right" style="width:50%">
  <a href="{{ site.url }}{{ site.baseurl }}/images/posts/PFNP-2.jpg">

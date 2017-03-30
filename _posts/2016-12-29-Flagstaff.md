@@ -17,7 +17,7 @@ people. I arrived in the afternoon after a nice drive down from the
 }}/posts/2016-12-23-Grand-Canyon) and immediately headed over the
 library to check in on the rest of the world. After it got a bit
 stuffy I drifted over the Dark Sky Brewery to soak up the local
-scene. This place had produced over 100 years in their first year of
+scene. This place had produced over 100 beers in their first year of
 operation and I tried the popular Jalapeno somethingorother. It was
 appropriately spicy. I also met a very nice group of people who were
 on their way to raft the Grand Canyon! In winter! I asked how they
