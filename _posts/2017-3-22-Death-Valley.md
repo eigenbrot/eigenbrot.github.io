@@ -79,10 +79,11 @@ which, at -282 feet, is the lowest piece of dry land in the United
 States. There was a sign advertising this fact and we were also
 afforded the opportunity to walk out on salt flats towards the other
 side of the valley (McTeague style). Standing out on this frying pan
-salt plane I though about the Low2High route (another life goal of
-mine) - all of the (big) mountains between where I stood and
-Mt. Whitney; the desolation of the land between them; and the
-strength-draining heat present at lower elevations - suddenly it
+salt plane I though about the
+[Lowest-to-Highest](http://www.simblissity.net/L2H.shtml) route
+(another life goal of mine) - all of the (big) mountains between where
+I stood and Mt. Whitney; the desolation of the land between them; and
+the strength-draining heat present at lower elevations - suddenly it
 seemed like a very hard hike. On my way back to the car I made sure to
 lean down and get a breath from the bottom of the Badwater sign; the
 gluttony of oxygen was almost too much to handle.
