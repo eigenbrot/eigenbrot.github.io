@@ -70,10 +70,9 @@ on the road instead of marveling at the view.
 Before I knew it I was in Pagosa Springs. The first task was to drive
 around like a creeper to find a good place to sleep for the
 night. With that accomplished I headed over to the library to get a
-little work done. On the way back was greeted with a stunning view as
-the setting sun set off a ring of alpenglow in the surrounding
-mountains. 
-{% include gallery id="alpenglow_gallery" class="half" %}
+little work done. On the way back was I greeted with a stunning view
+as the setting sun set off a ring of alpenglow in the surrounding
+mountains.  {% include gallery id="alpenglow_gallery" class="half" %}
 
 <figure class="align-left" style="width:60%">
  <a href="{{ site.url }}{{ site.baseurl }}/images/posts/Pagosa-8.jpg">

@@ -73,7 +73,7 @@ control rules.
 If Iowa is a failed attempt to capture the Midwestern spirit present
 in Wisconsin then Nebraska is a lack of any attempt at all. Omaha has
 a pretty impressive "Welcome to Nebraska" display with some cool
-trains and a big flag, but that's about it. Bob Seger had is
+trains and a big flag, but that's about it. Bob Seger had his
 directions wrong when he complained about traveling east of
 Omaha. Omaha truly marks the end of the conglomerate of civilization
 stretching from the cities of the East; west of the city is the
