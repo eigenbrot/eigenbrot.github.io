@@ -52,11 +52,12 @@ had been rotated parallel to the road by the wind, so it must be windy
 all the time here.
 
 I stayed on US 160 as it raced across the valley floor and through
-Alamosa, which apparently is the coldest city in the lower
-48. Whoa. Just outside Alamosa I picked up a great radio show called
-[Woodsongs](http://www.woodsongs.com/), a live, roots music variety
-show with some very cool music and good interviews. It was a great
-driving companion and I was sad when the mountains cut off the signal.
+Alamosa, which apparently is the coldest city in thelower 48.
+Whoa. Just outside Alamosa I picked up a great radio show
+called [Woodsongs](http://www.woodsongs.com/), a live, roots music
+variety show with some very cool music and good interviews. It was a
+great driving companion and I was sad when the mountains cut off the
+signal.
 
 The mountains in question were the eastern edge of the San Juan
 range. I followed US 160 up over Wolf Creek pass and down to Pagosa
