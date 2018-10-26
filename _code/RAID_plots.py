@@ -52,6 +52,17 @@ def main(outpre='../images/RAID/RAID', dpi=100):
                            [530, 550, 550, 550, 550],
                            [35, 45, 38, 40, 42]])
 
+    #for the 4 disk RAID 10
+    disk4_10_write = np.array([[13, 14, 12, 12, 14],
+                                [12, 13, 13, 13, 14],
+                                [12, 13.5, 13, 13, 14]])
+    disk4_10_unbuff = np.array([[29, 29, 30, 39, 43],
+                                [35, 25, 40, 41, 42],
+                                [27, 26, 30, 35, 41]])
+    disk4_10_buff = np.array([[41, 42, 44, 42, 40],
+                              [41, 41, 44, 43, 43],
+                              [41, 42, 44, 42, 42]])
+    
     # colors to use
     colors = ['#e41a1c','#377eb8','#4daf4a','#984ea3','#ff7f00']
 
@@ -65,6 +76,7 @@ def main(outpre='../images/RAID/RAID', dpi=100):
     for i in range(3):
         write_ax.plot(disk3_chunks, disk3_write[i], color=colors[i], ls='--')    
         write_ax.plot(disk4_chunks, disk4_write[i], color=colors[i], label=bs[i])
+        write_ax.plot(disk4_chunks, disk4_10_write[i], color=colors[i], ls=':')        
 
     write_ax.legend(frameon=False, loc=0, title='block size [kb]')
 
@@ -80,6 +92,7 @@ def main(outpre='../images/RAID/RAID', dpi=100):
     for i in range(3):
         unbuff_ax.plot(disk3_chunks, disk3_unbuff[i], color=colors[i], ls='--')    
         unbuff_ax.plot(disk4_chunks, disk4_unbuff[i], color=colors[i], label=bs[i])
+        unbuff_ax.plot(disk4_chunks, disk4_10_unbuff[i], color=colors[i], ls=':')
 
     unbuff_ax.figure.savefig(outpre+'_unbuff.png', dpi=dpi)
 
@@ -93,6 +106,7 @@ def main(outpre='../images/RAID/RAID', dpi=100):
     for i in range(3):
         buff_ax.plot(disk3_chunks, disk3_buff[i], color=colors[i], ls='--')    
         buff_ax.plot(disk4_chunks, disk4_buff[i], color=colors[i], label=bs[i])
+        buff_ax.plot(disk4_chunks, disk4_10_buff[i], color=colors[i], ls=':')
 
     buff_ax.figure.savefig(outpre+'_buff.png', dpi=dpi)
 
