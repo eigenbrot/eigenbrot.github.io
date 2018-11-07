@@ -1,6 +1,6 @@
 allowedFields          : ['name', 'email', 'message']
 branch                 : "master"
-commitMessage          : "New staticman comment"
+commitMessage          : "New staticman comment from {fields.name}"
 filename               : "comment-{fields.name}-{@timestamp}"
 format                 : "yml"
 moderation             : true
