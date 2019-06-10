@@ -6,8 +6,6 @@ format                 : "yml"
 moderation             : true
 path                   : "_data/comments/{options.slug}"
 requiredFields         : ['name', 'message']
-transforms:
-  email                : "md5"
 generatedFields:
   data:
     type               : "date"
