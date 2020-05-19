@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "The Eigenspace"
 title_separator          : "-"
 name                     : "Arthur Eigenbrot"
-description              : "Rouge Scientist"
+description              : "Rogue Scientist"
 #url                      : "http://www.eigenspace.me"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
